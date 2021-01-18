@@ -39,4 +39,7 @@
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
     <string name="action_item_added">com.example.shoppinglist.broadcastreceiver.ITEM_ADDED</string>
+    <string name="title_activity_fav_shops_map">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
